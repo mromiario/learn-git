@@ -1,4 +1,6 @@
 tes 233345
-change this line
+create new line
 tes add new text
 commit A
+add line
+tambah lagi
